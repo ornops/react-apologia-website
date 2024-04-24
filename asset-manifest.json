@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-apologia-website%20/static/css/main.ffebe519.css",
+    "main.js": "/react-apologia-website%20/static/js/main.630fb1d3.js",
+    "static/js/453.f29c8cb8.chunk.js": "/react-apologia-website%20/static/js/453.f29c8cb8.chunk.js",
+    "static/media/hero-image.jpg": "/react-apologia-website%20/static/media/hero-image.929199cf5e864db54f72.jpg",
+    "index.html": "/react-apologia-website%20/index.html",
+    "main.ffebe519.css.map": "/react-apologia-website%20/static/css/main.ffebe519.css.map",
+    "main.630fb1d3.js.map": "/react-apologia-website%20/static/js/main.630fb1d3.js.map",
+    "453.f29c8cb8.chunk.js.map": "/react-apologia-website%20/static/js/453.f29c8cb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffebe519.css",
+    "static/js/main.630fb1d3.js"
+  ]
+}
