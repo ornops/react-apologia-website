@@ -1,8 +1,12 @@
+import './hero-section.styles.css'
 
 const HeroSection = () =>{
 
     return(
-        <h1>Hero Section</h1>
+        <div className="section-container hero-section">
+            <h1 className='hero-text'>Finding Joy in Christ</h1>
+        </div>
+        
     )
 }
 

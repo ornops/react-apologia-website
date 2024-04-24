@@ -1,8 +1,11 @@
+import './contact-section.styles.css'
 
 const ContactSection = () =>{
 
     return(
-        <h1>Contact Section</h1>
+        <div className="section-container contact-section">
+            <h1>Contact Us Section</h1>
+        </div>
     )
 }
 

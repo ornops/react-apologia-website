@@ -1,8 +1,11 @@
+import './event-section.styles.css'
 
 const EventSection = () =>{
 
     return(
-        <h1>Event Section</h1>
+        <div className="section-container event-section">
+            <h1>Recent Events Section</h1>
+        </div>
     )
 }
 

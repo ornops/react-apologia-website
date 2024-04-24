@@ -1,8 +1,11 @@
+import './schedule-section.styles.css'
 
 const ScheduleSection = () =>{
 
     return(
-        <h1>Schedule Section</h1>
+        <div className="section-container">
+            <h1>Schedule Section</h1>
+        </div>
     )
 }
 

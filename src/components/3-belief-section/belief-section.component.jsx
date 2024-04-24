@@ -1,8 +1,11 @@
+import './belief-section.styles.css'
 
 const BeliefSection = () =>{
 
     return(
-        <h1>Belief Section</h1>
+        <div className="section-container belief-section">
+            <h1>Core Beliefs Section</h1>
+        </div>
     )
 }
 

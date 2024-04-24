@@ -1,8 +1,11 @@
+import './outreaches-section.styles.css'
 
 const OutreachesSection = () =>{
 
     return(
-        <h1>Outreaches Section</h1>
+        <div className="section-container outreaches-section">
+            <h1>Outreaches Section</h1>
+        </div>
     )
 }
 
