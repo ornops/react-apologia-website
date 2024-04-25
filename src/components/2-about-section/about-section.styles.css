@@ -1,3 +1,17 @@
 .about-section{
-    background-color: pink;
+    background-color: #F1EEE8;
+    display: flex;
+}
+.left-side{
+    width: 50%;
+}
+.left-side img{
+    width: 50%;
+    height: 50%;
+}
+.right-side{
+    width: 50%;
+}
+.about-header-text{
+    color: #705936;
 }
