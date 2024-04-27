@@ -4,14 +4,27 @@
 }
 .left-side{
     width: 50%;
+    margin: 10% 0% 0% 10%;
 }
 .left-side img{
-    width: 50%;
-    height: 50%;
+    max-width: 100%; 
+    min-height: 200px; 
 }
 .right-side{
     width: 50%;
+    margin: 10% 10% 0% 10%;
+}
+.right-side p{
+    color: #705936;
+    font-size: 4vh;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    margin-top: 15%;
 }
 .about-header-text{
     color: #705936;
+    
+    
 }

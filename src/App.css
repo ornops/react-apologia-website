@@ -7,16 +7,16 @@
   list-style: none;
   box-sizing: border-box;
 }
-img{
+/* img{
   display: block;
   max-width: 100%;
-}
+} */
 .section-container{
   height: 100vh;
   width: auto;
 }
 .section-header-text{
-    font-size: 50px;
+    font-size: 8vh;
     font-family: "Spectral", serif;
     font-weight: 700;
     font-style: normal;
