@@ -4,7 +4,7 @@ const BeliefSection = () =>{
 
     return(
         <div className="section-container belief-section">
-            <h1>Core Beliefs Section</h1>
+            <h1 className='belief-header-text'>Core Belief and Confessions</h1>
         </div>
     )
 }

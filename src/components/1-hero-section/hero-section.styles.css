@@ -36,6 +36,7 @@
       "wdth" 100;
     cursor: pointer;
     color: #000;
+    border-radius: 10px;
 }
 .streaming-button{
     background-color: #E9D7B6;

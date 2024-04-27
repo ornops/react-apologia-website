@@ -14,9 +14,6 @@ const AboutSection = () =>{
                     We are a Christ-centered church that proclaims and defends the gospel.<br/>
                     We are a community of believers that loves God and loves one another.<br/>
                     We are a Christ-centered church that proclaims and defends the gospel.<br/>
-                    
-
-
                 </p>
                 
 
