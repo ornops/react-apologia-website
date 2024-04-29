@@ -1,5 +1,6 @@
 .belief-section{
     display: flex;
+    flex-direction: column;
     background-image: url('../../assets/beliefs-bg.jpg');
     min-height: 100%;
     background-position: center;
@@ -13,5 +14,12 @@
     font-size: 8vh;
     font-family: "Spectral", serif;
     font-weight: 700;
+    font-style: normal;
+}
+.belief-section .beliefs-item{
+    color: #fff;
+    font-size: 5vh;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
     font-style: normal;
 }

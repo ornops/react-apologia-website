@@ -4,7 +4,28 @@ const HeroSection = () =>{
 
     return(
         <div className="section-container hero-section">
-            <h1 className='hero-text'>Apologia Gospel Church</h1>
+            <div className="hero-text-container">
+                <p className='hero-text '>
+                    “All flesh is like grass 
+                </p>
+                <p className='hero-text '>
+                    and all its glory like the flower of grass.
+                </p>
+                <p className='hero-text'>
+                    The grass withers,
+                </p>
+                <p className='hero-text '>
+                    and the flower falls,
+                </p>
+                <p className='hero-text '>
+                    but the word of the Lord remains forever.”
+                </p>
+                <p className='hero-text'>
+                    And this word is the good news that was preached to you.
+                </p>
+            </div>
+           
+
             
             <div className='buttons-container'>
             <button className='hero-button schedule-button'>Schedule</button>
