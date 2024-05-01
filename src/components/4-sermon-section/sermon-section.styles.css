@@ -1,0 +1,9 @@
+.event-section{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.event-section h1{
+    margin: auto;
+}
