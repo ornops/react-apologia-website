@@ -1,3 +1,11 @@
 .schedule-section{
-    background-color: rgb(252, 252, 242);
+    background-color: #E9D7B6;
+    display: flex;
+}
+.schedule-section h1{
+    color: #705936;
+    width: 50%;
+}
+.schedule-section .schedule-table{
+    width: 50%;
 }
