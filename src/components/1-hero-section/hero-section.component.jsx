@@ -28,8 +28,9 @@ const HeroSection = () =>{
 
             
             <div className='buttons-container'>
-            <button className='hero-button schedule-button'>Schedule</button>
-            <button className='hero-button streaming-button' >Latest Sermon</button>
+                <a href="#schedule-section-anchor"><button className='hero-button schedule-button'>Schedule</button></a>
+                <a href='#sermon-section-anchor'><button className='hero-button streaming-button' >Latest Sermon</button></a>
+            
             </div>
             <div className='hero-bottom-paragraph'>
                 <p>Apologia Gospel Church Welcomes You Brethren!</p>

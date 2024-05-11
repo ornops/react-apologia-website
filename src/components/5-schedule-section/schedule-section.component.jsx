@@ -3,7 +3,7 @@ import './schedule-section.styles.css'
 const ScheduleSection = () =>{
 
     return(
-        <div className="section-container schedule-section">
+        <div className="section-container schedule-section" id='schedule-section-anchor'>
             <h1 className='section-header-text'>Daily Schedule</h1>
             <table className='schedule-table'>
                 <tr>
