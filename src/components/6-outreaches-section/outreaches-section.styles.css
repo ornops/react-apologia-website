@@ -1,3 +1,15 @@
 .outreaches-section{
-    background-color: rgb(185, 185, 159);
+    background-color: #E9D7B6;
+    padding: 5% 10% 5% 10%;
+}
+.outreach-container{
+
+}
+.outreach-container .header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.outreach-container .image-container{
+
 }

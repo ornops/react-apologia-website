@@ -4,7 +4,9 @@ const OutreachesSection = () =>{
 
     return(
         <div className="section-container outreaches-section">
-            <h1>Outreaches Section</h1>
+            <div className="outreach-container">
+                <h1>Outreaches</h1>
+            </div>
         </div>
     )
 }
