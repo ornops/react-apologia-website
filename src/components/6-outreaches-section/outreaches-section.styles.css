@@ -11,5 +11,5 @@
     justify-content: center;
 }
 .outreach-container .image-container{
-
+    display: flex;
 }
