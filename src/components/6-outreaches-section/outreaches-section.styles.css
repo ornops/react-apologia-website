@@ -9,11 +9,20 @@
     align-items: center;
     justify-content: center;
 }
-.outreach-container .image-container{
+.outreach-container .individual-outreach-container{
     display: flex;
     gap: 5vh;
 }
-.outreach-container .image-container .outreach-image{
+.outreach-container .individual-outreach-container .outreach-box-container{
+    display: flex;
+    flex-direction: column;
+}
+.outreach-container .individual-outreach-container .outreach-box-container .outreach-description{
+    background-color: #fff;
+    width: 40vh;
+    height: 30vh;
+}
+.outreach-container .individual-outreach-container .outreach-box-container .outreach-image{
     width: 40vh;
     height: 40vh;
 }
