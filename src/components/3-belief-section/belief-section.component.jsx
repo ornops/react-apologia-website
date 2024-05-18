@@ -4,7 +4,7 @@ const BeliefSection = () =>{
 
     return(
         <div className="section-container belief-section">
-            <h1 className='belief-header-text'>Doctrinal Commitments</h1>
+            <h1 className='belief-header-text'>What we Believe</h1>
             <p className='beliefs-item'>Trinitarian Theology</p>
             <p className='beliefs-item'>Baptist Ecclesiology</p>
             <p className='beliefs-item'>Reformed / Calvinist Soteriology</p>
