@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/react-apologia-website/static/css/main.587b4d01.css",
-    "main.js": "/react-apologia-website/static/js/main.1909b397.js",
+    "main.css": "/react-apologia-website/static/css/main.a57d7f6a.css",
+    "main.js": "/react-apologia-website/static/js/main.b939ce13.js",
     "static/js/453.f29c8cb8.chunk.js": "/react-apologia-website/static/js/453.f29c8cb8.chunk.js",
+    "static/media/outreach1.jpg": "/react-apologia-website/static/media/outreach1.731d6d3a32cb9c3b9bc1.jpg",
+    "static/media/outreach2.jpg": "/react-apologia-website/static/media/outreach2.731d6d3a32cb9c3b9bc1.jpg",
+    "static/media/outreach3.jpg": "/react-apologia-website/static/media/outreach3.731d6d3a32cb9c3b9bc1.jpg",
+    "static/media/outreach4.jpg": "/react-apologia-website/static/media/outreach4.731d6d3a32cb9c3b9bc1.jpg",
     "static/media/about-image.jpg": "/react-apologia-website/static/media/about-image.7fecd62f62782f3150c2.jpg",
     "static/media/beliefs-bg.jpg": "/react-apologia-website/static/media/beliefs-bg.526e8f2ffa3b3dc84cca.jpg",
     "static/media/hero-image.jpg": "/react-apologia-website/static/media/hero-image.929199cf5e864db54f72.jpg",
     "index.html": "/react-apologia-website/index.html",
-    "main.587b4d01.css.map": "/react-apologia-website/static/css/main.587b4d01.css.map",
-    "main.1909b397.js.map": "/react-apologia-website/static/js/main.1909b397.js.map",
+    "main.a57d7f6a.css.map": "/react-apologia-website/static/css/main.a57d7f6a.css.map",
+    "main.b939ce13.js.map": "/react-apologia-website/static/js/main.b939ce13.js.map",
     "453.f29c8cb8.chunk.js.map": "/react-apologia-website/static/js/453.f29c8cb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.587b4d01.css",
-    "static/js/main.1909b397.js"
+    "static/css/main.a57d7f6a.css",
+    "static/js/main.b939ce13.js"
   ]
 }
