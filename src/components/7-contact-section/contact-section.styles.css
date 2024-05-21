@@ -1,3 +1,37 @@
 .contact-section{
-    background-color: rgb(110, 110, 110);
+    background-color: #705936;
+}
+.contact-section .image-banner-section{
+    background-image: url('../../assets/contact-banner-image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60%;
+}
+.contact-section .contact-info-section{
+    padding: 5%;
+}
+.contact-section .address-contact-container{
+    font-family: "Open Sans", sans-serif;
+    font-size: 3vh;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: #fff;
+}
+.contact-section .contact-info-section .contact-header h1{
+    color: #fff;
+    font-size: 8vh;
+    font-family: "Spectral", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.contact-section .contact-info-section{
+    height: 40%;
+}
+.contact-section .contact-info-section .address-contact-container{
+    display: flex;
+    gap: 5vh;
 }
