@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-apologia-website/static/css/main.ffa115df.css",
-    "main.js": "/react-apologia-website/static/js/main.e91df6b7.js",
+    "main.css": "/react-apologia-website/static/css/main.35555c72.css",
+    "main.js": "/react-apologia-website/static/js/main.2762458a.js",
     "static/js/453.f29c8cb8.chunk.js": "/react-apologia-website/static/js/453.f29c8cb8.chunk.js",
+    "static/media/hero-image2.JPG": "/react-apologia-website/static/media/hero-image2.84420c7817a278a1e763.JPG",
     "static/media/contact-banner-image.jpg": "/react-apologia-website/static/media/contact-banner-image.e6549473f7f00bec16b0.jpg",
     "static/media/about-image.jpg": "/react-apologia-website/static/media/about-image.7fecd62f62782f3150c2.jpg",
     "static/media/beliefs-bg.jpg": "/react-apologia-website/static/media/beliefs-bg.526e8f2ffa3b3dc84cca.jpg",
-    "static/media/hero-image.jpg": "/react-apologia-website/static/media/hero-image.929199cf5e864db54f72.jpg",
     "static/media/outreach3.jpg": "/react-apologia-website/static/media/outreach3.62ff25b67b3edd64e33d.jpg",
     "static/media/outreach1.jpg": "/react-apologia-website/static/media/outreach1.a9a3f439f11f56bb6f4c.jpg",
     "static/media/outreach4.jpg": "/react-apologia-website/static/media/outreach4.a9a3f439f11f56bb6f4c.jpg",
     "static/media/outreach2.jpg": "/react-apologia-website/static/media/outreach2.3cec45ea92f6cb5f7430.jpg",
     "index.html": "/react-apologia-website/index.html",
-    "main.ffa115df.css.map": "/react-apologia-website/static/css/main.ffa115df.css.map",
-    "main.e91df6b7.js.map": "/react-apologia-website/static/js/main.e91df6b7.js.map",
+    "main.35555c72.css.map": "/react-apologia-website/static/css/main.35555c72.css.map",
+    "main.2762458a.js.map": "/react-apologia-website/static/js/main.2762458a.js.map",
     "453.f29c8cb8.chunk.js.map": "/react-apologia-website/static/js/453.f29c8cb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa115df.css",
-    "static/js/main.e91df6b7.js"
+    "static/css/main.35555c72.css",
+    "static/js/main.2762458a.js"
   ]
 }
