@@ -21,7 +21,7 @@
     width: 260px;
     height: 73px;
     /* color: #000; */
-    font-size: 3vh;
+    font-size: 23px;
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
@@ -59,14 +59,3 @@
     align-items: center;
     justify-content: center;
 }
-/* .hero-bottom-paragraph p{
-    font-family: "Open Sans", sans-serif;
-    font-size: 20px;
-    font-optical-sizing: auto;
-    font-weight: 700;
-    font-style: normal;
-    font-variation-settings:
-      "wdth" 100;
-    cursor: pointer;
-    color: #000;
-} */
