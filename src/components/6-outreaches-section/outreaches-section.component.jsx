@@ -16,19 +16,28 @@ const OutreachesSection = () =>{
                 <div className="individual-outreach-container">
                     <div className="outreach-box-container">
                         <img src={OutReachImage1} className='outreach-image' alt="Inage 1" />
-                        <p className='outreach-description'>Consolacion</p>
+                        <div className="outreach-text-container">
+                            <p>Consolacion</p>
+                        </div>
+                        
                     </div>
                     <div className="outreach-box-container">
                         <img src={OutReachImage2} className='outreach-image' alt="Inage 1" />
-                        <p className='outreach-description'>Pardo</p>
+                        <div className="outreach-text-container">
+                            <p>Pardo</p>
+                        </div>
                     </div>
                     <div className="outreach-box-container">
                         <img src={OutReachImage3} className='outreach-image' alt="Inage 1" />
-                        <p className='outreach-description'>Banawa</p>
+                        <div className="outreach-text-container">
+                            <p>Banawa</p>
+                        </div>
                     </div>
                     <div className="outreach-box-container">
                         <img src={OutReachImage4} className='outreach-image' alt="Inage 1" />
-                        <p className='outreach-description'>Lapu-lapu</p>
+                        <div className="outreach-text-container">
+                            <p>Lapu-lapu</p>
+                        </div>
                     </div>
                 </div>
             </div>
