@@ -1,39 +1,27 @@
 .hero-section{
     display: flex;
-    background-image: url('../../assets/hero-image.jpg');
+    background-image: url('../../assets/hero-image2.JPG');
     min-height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     flex-direction: column;
-    gap: 15vh;
+    padding-bottom: 3%;
 
 }
-.hero-text-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-.hero-text-container .hero-text{
-    color: #000;
-    font-size: 5vh;
-    font-family: "Spectral", serif;
-    font-weight: 700;
-    font-style: normal;
-}
+
 .buttons-container{
     display: flex;
     gap: 20px;
 
 }
 .buttons-container .hero-button{
-    width: 240px;
+    width: 260px;
     height: 73px;
-    color: #000;
-    font-size: 15px;
+    /* color: #000; */
+    font-size: 3vh;
     font-family: "Open Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
@@ -41,11 +29,27 @@
     font-variation-settings:
       "wdth" 100;
     cursor: pointer;
-    color: #000;
-    border-radius: 10px;
+   
+    /* border-radius: 10px; */
 }
-.streaming-button{
-    background-color: #E9D7B6;
+.schedule-button{
+    background-color: #000;
+    color: #fff;
+}
+.schedule-button:hover{
+    background-color: transparent;
+    border: 5px solid #fff;
+    color: #000;
+}
+.sermon-button{
+    background-color: transparent;
+    border: 5px solid yellow;
+    color: yellow;
+}
+.sermon-button:hover{
+    background-color: yellow;
+    /* border: 5px solid yellow; */
+    color: #000;
 }
 .hero-bottom-paragraph{
     width: 100%;
@@ -55,7 +59,7 @@
     align-items: center;
     justify-content: center;
 }
-.hero-bottom-paragraph p{
+/* .hero-bottom-paragraph p{
     font-family: "Open Sans", sans-serif;
     font-size: 20px;
     font-optical-sizing: auto;
@@ -65,4 +69,4 @@
       "wdth" 100;
     cursor: pointer;
     color: #000;
-}
+} */
