@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-apologia-website/static/css/main.691b3c6e.css",
-    "main.js": "/react-apologia-website/static/js/main.b633fcd4.js",
+    "main.js": "/react-apologia-website/static/js/main.8a371eb5.js",
     "static/js/453.f29c8cb8.chunk.js": "/react-apologia-website/static/js/453.f29c8cb8.chunk.js",
     "static/media/hero-image2.JPG": "/react-apologia-website/static/media/hero-image2.84420c7817a278a1e763.JPG",
     "static/media/contact-banner-image.jpg": "/react-apologia-website/static/media/contact-banner-image.e6549473f7f00bec16b0.jpg",
@@ -13,11 +13,11 @@
     "static/media/outreach2.jpg": "/react-apologia-website/static/media/outreach2.3cec45ea92f6cb5f7430.jpg",
     "index.html": "/react-apologia-website/index.html",
     "main.691b3c6e.css.map": "/react-apologia-website/static/css/main.691b3c6e.css.map",
-    "main.b633fcd4.js.map": "/react-apologia-website/static/js/main.b633fcd4.js.map",
+    "main.8a371eb5.js.map": "/react-apologia-website/static/js/main.8a371eb5.js.map",
     "453.f29c8cb8.chunk.js.map": "/react-apologia-website/static/js/453.f29c8cb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.691b3c6e.css",
-    "static/js/main.b633fcd4.js"
+    "static/js/main.8a371eb5.js"
   ]
 }
