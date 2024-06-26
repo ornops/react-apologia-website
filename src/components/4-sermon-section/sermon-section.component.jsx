@@ -6,7 +6,7 @@ const SermonSection = () =>{
     return(
         <div className="section-container event-section" id='sermon-section-anchor'>
             {/* <h1>Latest Sermon</h1> */}
-            <YoutubeEmbed embedId="cakDdpMIPuc" />
+            <YoutubeEmbed embedId="Nio99VWO0dM" />
         </div>
     )
 }
